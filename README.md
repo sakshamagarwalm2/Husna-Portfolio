@@ -17,3 +17,4 @@ JavaScript
 Git
 GitHub
 #Homepage visuals
+![Alt text](/hus.jpg)

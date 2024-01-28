@@ -16,5 +16,6 @@ CSS3
 JavaScript
 Git
 GitHub
-#Homepage visuals
+
+# Homepage visuals
 ![Alt text](/hus.jpg)
